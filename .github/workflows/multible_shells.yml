@@ -1,3 +1,4 @@
+name: Multible shells commands
 on:
   push:
     branches:
